@@ -9,9 +9,13 @@
     <developer id="com.empesol.timetracker">
         <name>Tadej Logar</name>
     </developer>
-    <summary>Track your daily work hours and monitor the progress of Jira tasks</summary>
+    <branding>
+        <color type="primary" scheme_preference="light">#ffffff</color>
+        <color type="primary" scheme_preference="dark">#1c1c1e</color>
+    </branding>
+    <summary>Track work time and tasks</summary>
     <metadata_license>MIT</metadata_license>
-    <project_license>LicenseRef-proprietary</project_license>
+    <project_license>LicenseRef-proprietary=https://timetracker.empesol.com/static/docs/Software_License_Agreement.html</project_license>
     <content_rating type="oars-1.1"/>
     <url type="homepage">https://timetracker.empesol.com</url>
 
@@ -42,15 +46,15 @@
     <screenshots>
         <screenshot type="default">
             <caption>Work time</caption>
-            <image>https://timetracker.empesol.com/static/png/screen/desktop/large/1.png</image>
+            <image>https://timetracker.empesol.com/static/png/screen/desktop/kde/large/1.png</image>
         </screenshot>
         <screenshot>
             <caption>Published info</caption>
-            <image>https://timetracker.empesol.com/static/png/screen/desktop/large/2.png</image>
+            <image>https://timetracker.empesol.com/static/png/screen/desktop/kde/large/2.png</image>
         </screenshot>
         <screenshot>
             <caption>Tasks</caption>
-            <image>https://timetracker.empesol.com/static/png/screen/desktop/large/3.png</image>
+            <image>https://timetracker.empesol.com/static/png/screen/desktop/kde/large/3.png</image>
         </screenshot>
     </screenshots>
 
