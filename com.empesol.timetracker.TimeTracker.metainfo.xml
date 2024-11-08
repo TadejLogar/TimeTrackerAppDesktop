@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-    <id>com.empesol.timetracker</id>
+    <id>com.empesol.timetracker.TimeTracker</id>
     <provides>
         <id>com.empesol.timetracker.desktop</id>
     </provides>
-    <launchable type="desktop-id">com.empesol.timetracker.desktop</launchable>
+    <replaces>
+        <id>com.empesol.timetracker</id>
+    </replaces>
+    <launchable type="desktop-id">com.empesol.timetracker.TimeTracker.desktop</launchable>
     <name>Time Tracker for Ridango</name>
     <developer id="com.empesol.timetracker">
         <name>Tadej Logar</name>

@@ -5,6 +5,6 @@ Name=Time Tracker
 Comment=Time Tracker
 Keywords=timetracker;
 Exec=TimeTrackerApp.sh
-Icon=com.empesol.timetracker
+Icon=com.empesol.timetracker.TimeTracker
 Categories=Utility;
 StartupWMClass=com-empesol-timetracker-MainKt
