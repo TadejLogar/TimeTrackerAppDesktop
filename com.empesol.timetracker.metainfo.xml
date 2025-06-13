@@ -5,7 +5,7 @@
         <id>com.empesol.timetracker.desktop</id>
     </provides>
     <launchable type="desktop-id">com.empesol.timetracker.desktop</launchable>
-    <name>Time Tracker for Ridango</name>
+    <name>Lynx Time Tracker</name>
     <developer id="com.empesol.timetracker">
         <name>Tadej Logar</name>
     </developer>
@@ -27,10 +27,14 @@
 
     <description>
         <p>
-            Track your daily work hours and monitor the progress of Jira tasks with Time Tracker.
+            Track your daily work hours and monitor the progress of your tasks with Lynx Time Tracker.
         </p>
         <p>
-            The application is designed for use by Ridango employees. To access all features, users must have a Ridango Jira account and a Ridango Bamboo HR account.
+            Additionally, the application supports integration with:
+            <ul>
+                <li>Ridango Bamboo HR</li>
+                <li>Jira for task time logging</li>
+            </ul>
         </p>
     </description>
 
