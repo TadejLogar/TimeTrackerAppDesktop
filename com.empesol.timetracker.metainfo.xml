@@ -31,11 +31,11 @@
         </p>
         <p>
             Additionally, the application supports integration with:
-            <ul>
-                <li>Ridango Bamboo HR</li>
-                <li>Jira for task time logging</li>
-            </ul>
         </p>
+        <ul>
+            <li>Ridango Bamboo HR</li>
+            <li>Jira for task time logging</li>
+        </ul>
     </description>
 
     <keywords>
